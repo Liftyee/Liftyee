@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Consider checking out my ![website](https://liftyee.com)
-The occasional game server at `mc.liftyee.com`
+
+Runs the occasional game server at `mc.liftyee.com`
 
 ![Liftyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liftyee&show_icons=true&count_private=true&theme=cobalt)
 
