@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Liftyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liftyee&show_icons=true&count_private=true)
+
 <!--
 **Liftyee/Liftyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
