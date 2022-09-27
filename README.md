@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Consider checking out my ![website](https://liftyee.com)
+Consider checking out my website at https://liftyee.com
 
 Runs the occasional game server at `mc.liftyee.com`
 
