@@ -2,10 +2,10 @@
 
 Making, tinkering, hacking...
 Probably routing PCBs, soldering, or coding (C#, C++ or Python).
-I like designing the next electronics project for Team Firefly and teaching younger students the fundamentals of designing an electronic system from scratch.
+I like designing electronics projects and teaching students the fundamentals of developing an electronic system from scratch.
 I dislike trying to hand solder tiny QFN integrated circuits. 
 
-Consider checking out my website at https://liftyee.com
+Consider checking out my weblogstagram at https://liftyee.com
 
 Runs the occasional game server at `mc.liftyee.com`
 
