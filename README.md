@@ -2,7 +2,7 @@
 
 Making, tinkering, hacking...
 Probably routing PCBs, soldering, or coding (C#, C++ or Python).
-I like designing electronics projects and teaching students the fundamentals of developing an electronic system from scratch.
+I like creating projects and teaching students the fundamentals of engineering.
 I dislike trying to hand solder tiny QFN integrated circuits. 
 
 Consider checking out my weblogstagram at https://liftyee.com
