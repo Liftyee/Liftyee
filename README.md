@@ -2,10 +2,11 @@
 
 Making, tinkering, hacking...
 Probably routing PCBs, soldering, or coding (C#, C++ or Python).
-I like creating projects and teaching students the fundamentals of engineering.
+I like creating projects and teaching students the fundamentals of engineering. 
+I also like 3M Command™ adhesive strips.
 I dislike trying to hand solder tiny QFN integrated circuits. 
 
-Consider checking out my weblogstagram at https://liftyee.com
+Consider checking out my "weblogstagram" at https://liftyee.com
 
 Runs the occasional game server at `mc.liftyee.com`
 
