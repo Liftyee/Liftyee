@@ -8,7 +8,7 @@ I dislike trying to hand solder tiny QFN integrated circuits.
 
 Consider checking out my "weblogstagram" at https://liftyee.com
 
-Runs the occasional game server at `mc.liftyee.com`
+Currently my main project is ![a London Tube Challenge route generator (metric TSP solver)](https://github.com/Liftyee/london-tube-navigator). 
 
 <!--
 ![I code in...](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)
