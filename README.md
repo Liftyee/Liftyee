@@ -10,9 +10,6 @@ Currently my main project is ![a London Tube Challenge route generator (metric T
 
 Consider checking out my "weblogstagram" at [liftyee.com](https://liftyee.com)
 <!--
-![I code in...](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)
-
-
 **Liftyee/Liftyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
